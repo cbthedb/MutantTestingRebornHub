@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**Mutant Testing Reborn Hub V1** is an advanced admin-style script designed for the discontinued *Mutant Testing Reborn* game on :contentReference[oaicite:0]{index=0}.  
+**Mutant Testing Reborn Hub V1** is an advanced admin-style script designed for the discontinued *Mutant Testing Reborn* game on Roblox.  
 Because the game is no longer actively maintained, many features, units, and gameplay systems became **locked, removed, or inaccessible**—especially those tied to:
 
 - Gamepasses  
